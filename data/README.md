@@ -2,3 +2,6 @@ The benchmark datasets can be download from: [single cell datasets](https://gith
 
 
 Each dataset contains data and meta. Data represents the gene expression matrix with samples in columns and genes in rows, and the label in META represents the true label.
+
+
+All the datasets are downloaded from GEO database. 
